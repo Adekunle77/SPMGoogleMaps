@@ -1,3 +1,3 @@
 # SPMGoogleMaps
 
-A description of this package.
+Using Swift Package Manager to Wrap Google Maps XCFramework.
